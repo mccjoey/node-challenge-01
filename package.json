@@ -1,0 +1,16 @@
+{
+  "name": "challenge-01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev:watch": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Jose Sampaio",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
+}
